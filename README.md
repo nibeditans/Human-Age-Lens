@@ -6,9 +6,11 @@ A simple Streamlit web application that calculates your exact age in **years, mo
 
 ## 📁 Project Structure
 
-- [`app.py`](https://github.com/nibeditans/human-age-lens/blob/main/app.py): Streamlit web application (interactive UI layer)
-- [`age_calc.py`](https://github.com/nibeditans/human-age-lens/blob/main/age_calc.py): Core age calculation logic using Python datetime utilities
+This project demonstrates three implementations showing progression from basic to production-style logic.
+
 - [`person_age.py`](https://github.com/nibeditans/human-age-lens/blob/main/person_age.py): Minimal implementation using year-based approximation (no external dependencies)
+- [`age_calc.py`](https://github.com/nibeditans/human-age-lens/blob/main/age_calc.py): Core age calculation logic using Python datetime utilities
+- [`app.py`](https://github.com/nibeditans/human-age-lens/blob/main/app.py): Streamlit web application (interactive UI layer)
 
 ## 🧠 Features
 
