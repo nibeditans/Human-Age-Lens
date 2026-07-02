@@ -4,6 +4,12 @@ A simple Streamlit web application that calculates your exact age in **years, mo
 
 ### 👉🏻 [Live Web App](https://huggingface.co/spaces/nibeditans/how-old-are-you-really)
 
+## 📁 Project Structure
+
+- [`app.py`](https://github.com/nibeditans/human-age-lens/blob/main/app.py): Streamlit web application (interactive UI layer)
+- [`age_calc.py`](https://github.com/nibeditans/human-age-lens/blob/main/age_calc.py): Core age calculation logic using Python datetime utilities
+- [`person_age.py`](https://github.com/nibeditans/human-age-lens/blob/main/person_age.py): Minimal implementation using year-based approximation (no external dependencies)
+
 ## 🧠 Features
 
 - Input name and birth date
