@@ -12,6 +12,8 @@ This project demonstrates three implementations showing progression from basic t
 - [`age_calc.py`](https://github.com/nibeditans/human-age-lens/blob/main/age_calc.py): Core age calculation logic using Python datetime utilities
 - [`app.py`](https://github.com/nibeditans/human-age-lens/blob/main/app.py): Streamlit web application (interactive UI layer)
 
+Check out the complete walkthrough I've made on this repo: [Building Python Utilities for Accurate Age Calculations with Better Date Logic](https://nsdsda.medium.com/building-python-utilities-for-accurate-age-calculations-with-better-date-logic-61f4400a5628)
+
 ## 🧠 Features
 
 - Input name and birth date
